@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAP.Interface", "SAP.Interface\SAP.Interface.csproj", "{75CD394C-ABF4-4527-B56C-D50FE40A1E45}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://ldemet-devenv:8080/tfs/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = SAP.Interface\\SAP.Interface.csproj
+		SccProjectName1 = SAP.Interface
+		SccLocalPath1 = SAP.Interface
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75CD394C-ABF4-4527-B56C-D50FE40A1E45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75CD394C-ABF4-4527-B56C-D50FE40A1E45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75CD394C-ABF4-4527-B56C-D50FE40A1E45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75CD394C-ABF4-4527-B56C-D50FE40A1E45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
