@@ -6,7 +6,7 @@ using ERPConnect;
 
 namespace SAP.Interface
 {
-    public class Material
+    public class Material 
     {
         public string MATART  { get; set; }
         public string MATNR   { get; set; }
